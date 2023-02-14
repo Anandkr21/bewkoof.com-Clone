@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+  }
+  .contact-section {
+    height: auto;
+    width: 100%;
+    background-color: #eeeeee;
+    display: flex;
+    justify-content: space-around;
+  }
+  .left-section {
+    width: 23%;
+    height: 100%;
+    display: flex;
+    font-size: 12px;
+    justify-content: space-around;
+  }
+
+  .right-section {
+    width: 12%;
+    height: 100%;
+    display: flex;
+    font-size: 12px;
+    justify-content: space-around;
+  }
+
+  .navbar {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    border-bottom:1px solid grey
+  }
+
+  .nav-left {
+    width: 30%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .logo
+   {
+    width: 140px;
+   }
+
+  .nav-right {
+    width: 30%;
+    height: 100%;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+  }
+
+  .search-box{
+        background-color:#eaeaea;
+        padding:10px;
+        border-radius: 20px;
+  }
+  .search{
+        padding-right: 100px;
+        background-color:#eaeaea;
+        border: 0px;
+        outline:  none;
+        font-size: 13px;
+  }
+  .tab {
+    width: 30%;
+    height: 40px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+  }
+  .men-images {
+    width: 100%;
+    height: 500px;
+    margin-top: 30px;
+    justify-content: space-around;
+    display: flex;
+  }
+
+  .image {
+    width: 30%;
+    height: 100%;
+  }
+
+  .crazy-image {
+    width: 100%;
+    margin-top: 50px;
+  }
+
+  .categories {
+    width: 75%;
+    height: 200px;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .box {
+    width: 10%;
+    height: 100%;
+  }
+
+  .cat-img {
+    width: 100%;
+    border-radius: 20px;
+  }
+
+  .align {
+    text-align: center;
+  }
+  .popular
+  {
+    text-align: center;
+  }
+  .popular-container
+  {
+    width: 100%;
+    height: 20x;
+    display: flex;
+    justify-content: space-around;
+  }
+  .discount
+  {
+    text-align: center;
+  }
+  .discount-container
+  {
+    width: 100%;
+    display: flex;  
+    justify-content: space-around;
+  }
+  .best
+  {
+    text-align: center;
+  }
+  .best-container
+  {
+    width: 100%;
+    height: 315px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .best-image
+  {
+    width: 260px;
+    border-radius: 10px;
+  }
