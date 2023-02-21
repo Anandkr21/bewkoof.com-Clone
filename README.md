@@ -9,8 +9,8 @@ This is a landing page of E-commerce website called <a href="https://resilient-b
 - HTML
 - CSS
 
-
-Here are screenshots that show the how Landing page look like.
+<h2 align="center">Landing Page</h2>
+<p align="center">Here are screenshots that show the how Landing page look like.</p>
 
 <hr/>
 
